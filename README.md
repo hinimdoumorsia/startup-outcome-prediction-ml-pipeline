@@ -56,6 +56,7 @@ This repository presents our work for my internship project at **[Technocolabs](
 
 Project Architecture:
 
+```plaintex
 startup-outcome-prediction-ml-pipeline/
 ├─ data/
 │  ├─ final-week-3/
@@ -83,6 +84,7 @@ startup-outcome-prediction-ml-pipeline/
 │  ├─ DEPLOYMENT_README.md
 │  ├─ DOWNLOAD.md
 │  └─ README.md
+```plaintex
 
 The main objective of this project is to predict the success or failure of startups using historical data from Crunchbase, including funding rounds, acquisitions, IPOs, industry, location, and other metrics. This involves data cleaning, preprocessing, feature engineering, model training, evaluation, and deployment using a Flask API with Render.
 
