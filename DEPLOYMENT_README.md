@@ -49,15 +49,6 @@
 
 ---
 
-## 👥 Team Members
-
-<p align="center">
-  <b>Farhan Akhtar</b> &nbsp; | &nbsp;
-  <b>Aniket Sanjay Gazalwar</b> &nbsp; | &nbsp;
-  <b>Souleymane Diallo</b> &nbsp; | &nbsp;
-  <b>Hinimdou Morsia Guitdam</b> &nbsp; | &nbsp;
-  <b>Samridh Shrotriya</b>
-</p>
 
 
 ## Table of Contents
@@ -756,4 +747,14 @@ This project lays the foundation for a scalable startup analytics platform, comb
 - Streamlit & Heroku Deployment Playlist 1: [https://www.youtube.com/playlist?list=PLtqF5YXg7GLmCvTswG32NqQypOuYkPRUE](https://www.youtube.com/playlist?list=PLtqF5YXg7GLmCvTswG32NqQypOuYkPRUE)
 - Streamlit & Heroku Deployment Playlist 2: [https://www.youtube.com/playlist?list=PLqYFiz7NM_SN2ZbhnbfwG4kTZ6oCh0aOM](https://www.youtube.com/playlist?list=PLqYFiz7NM_SN2ZbhnbfwG4kTZ6oCh0aOM)
 
+
+## 👥 Team Members
+
+<p align="center">
+  <b>Farhan Akhtar</b> &nbsp; | &nbsp;
+  <b>Aniket Sanjay Gazalwar</b> &nbsp; | &nbsp;
+  <b>Souleymane Diallo</b> &nbsp; | &nbsp;
+  <b>Hinimdou Morsia Guitdam</b> &nbsp; | &nbsp;
+  <b>Samridh Shrotriya</b>
+</p>
 
