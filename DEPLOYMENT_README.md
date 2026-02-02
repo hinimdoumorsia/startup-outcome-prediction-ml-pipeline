@@ -1,5 +1,66 @@
 # Startup Success Prediction Project Report
 
+
+# 🚀 Startup Success Prediction Project Report
+
+<p align="center">
+  <!-- Langages et Librairies -->
+  <img src="https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-2.2.2-17BEBB?logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-1.26.4-013243?logo=numpy&logoColor=white" />
+
+  <!-- Machine Learning -->
+  <img src="https://img.shields.io/badge/Scikit--Learn-1.5.1-F7931E?logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/LightGBM-4.2.0-00B0F0?logo=lightgbm&logoColor=white" />
+  <img src="https://img.shields.io/badge/ExtraTrees-ML-lightgrey?logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/SVM-ML-6F42C1?logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Logistic_Regression-ML-007ACC?logo=scikit-learn&logoColor=white" />
+
+  <!-- Preprocessing & Feature Engineering -->
+  <img src="https://img.shields.io/badge/OneHotEncoding-✔️-yellow" />
+  <img src="https://img.shields.io/badge/Scaling-Normalization-FF5733" />
+  <img src="https://img.shields.io/badge/Imputation-✔️-C70039" />
+  <img src="https://img.shields.io/badge/SMOTE-✔️-00FF00" />
+  <img src="https://img.shields.io/badge/SMOTEENN-✔️-32CD32" />
+  <img src="https://img.shields.io/badge/Borderline_SMOTE-✔️-3CB371" />
+  <img src="https://img.shields.io/badge/TomekLinks-✔️-2E8B57" />
+
+  <!-- Hyperparameter Tuning -->
+  <img src="https://img.shields.io/badge/GridSearch-✔️-8A2BE2" />
+  <img src="https://img.shields.io/badge/RandomSearch-✔️-9370DB" />
+  <img src="https://img.shields.io/badge/BayesianOptimization-Optuna-FF1493" />
+
+  <!-- Visualisation -->
+  <img src="https://img.shields.io/badge/Matplotlib-✔️-11557C" />
+  <img src="https://img.shields.io/badge/Seaborn-✔️-4060A0" />
+  <img src="https://img.shields.io/badge/SHAP-✔️-FF8C00" />
+  <img src="https://img.shields.io/badge/LIME-✔️-FFD700" />
+
+  <!-- Backend & Deployment -->
+  <img src="https://img.shields.io/badge/Flask-2.3.2-000000?logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gunicorn-22.0.0-499848?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-Cloud-FF5C5C?logo=render&logoColor=white" />
+
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/HTML/CSS/JS-Frontend-F7DF1E?logo=javascript&logoColor=black" />
+
+  <!-- License -->
+  <img src="https://img.shields.io/badge/License-MIT-green" />
+</p>
+
+---
+
+## 👥 Team Members
+
+<p align="center">
+  <b>Farhan Akhtar</b> &nbsp; | &nbsp;
+  <b>Aniket Sanjay Gazalwar</b> &nbsp; | &nbsp;
+  <b>Souleymane Diallo</b> &nbsp; | &nbsp;
+  <b>Hinimdou Morsia Guitdam</b> &nbsp; | &nbsp;
+  <b>Samridh Shrotriya</b>
+</p>
+
+
 ## Table of Contents
 1. [Introduction](#1-introduction)
    - 1.1 [Project Background](#11-project-background)
