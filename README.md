@@ -541,3 +541,12 @@ Threshold sweep tables showing trade-offs between macro-F1 and operating precisi
   <img src="https://img.shields.io/badge/Tsewang_Norbu_Gurung-👤-yellow" />
   <img src="https://img.shields.io/badge/Hinimdou_Morsia_Guitdam-👤-pink" />
 </p>
+
+## Contact
+
+You can reach me through my website: [https://site-web-nodemailer.vercel.app/](https://site-web-nodemailer.vercel.app/)
+
+I am available for collaboration on any project, whether it is in development, artificial intelligence, or software.
+
+Best regards,  
+**Hinimdou Morsia Guitdam**
