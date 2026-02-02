@@ -1,7 +1,6 @@
 # Startup Success Prediction Project Report
 
 
-# 🚀 Startup Success Prediction Project Report
 
 <p align="center">
   <!-- Langages et Librairies -->
