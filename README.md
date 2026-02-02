@@ -50,6 +50,49 @@
 </p>
 
 
+# 🚀 Startup Outcome Prediction — ML Pipeline
+
+This repository presents our work for my internship project at **[Technocolabs](https://www.technocolabs.com/)**. The goal of this project is to implement a complete machine learning pipeline to predict the future status of startups: Operating, IPO (going public), Acquired, or Closed. We designed a modular architecture to organize preprocessing, feature engineering, modeling, and deployment efficiently.
+
+Project Architecture:
+
+startup-outcome-prediction-ml-pipeline/
+├─ data/
+│  ├─ final-week-3/
+│  │  ├─ data-final.csv
+│  │  └─ data-normalized.csv
+│  └─ preprocessing/
+│     └─ company-cleaned.csv
+├─ notebook/
+│  ├─ week1/
+│  │  ├─ preprocessing.ipynb
+│  │  └─ report-of-preprocessing.ipynb
+│  ├─ week2/
+│  │  ├─ alternative-preprocessing.ipynb
+│  │  └─ exploratory-data-analysis.ipynb
+│  ├─ week3/
+│  │  └─ feature-engineering.ipynb
+│  ├─ week4/
+│  │  ├─ extra-tree-classifier.ipynb
+│  │  ├─ pipeline-final.ipynb
+│  │  ├─ svm-one-vs-one.ipynb
+│  │  └─ svm-one-vs-rest.ipynb
+├─ rapport-final/
+│  ├─ final-report.pdf
+│  ├─ objectif.pdf
+│  ├─ DEPLOYMENT_README.md
+│  ├─ DOWNLOAD.md
+│  └─ README.md
+
+The main objective of this project is to predict the success or failure of startups using historical data from Crunchbase, including funding rounds, acquisitions, IPOs, industry, location, and other metrics. This involves data cleaning, preprocessing, feature engineering, model training, evaluation, and deployment using a Flask API with Render.
+
+Technologies Used: Python 3.12, Pandas, NumPy, Scikit-learn, LightGBM, XGBoost, ExtraTreesClassifier, SVM, SMOTE, Borderline-SMOTE, SMOTEENN, TomekLinks, Matplotlib, Seaborn, Jupyter Notebook, VS Code, Google Colab, Flask, Gunicorn, Render.
+
+You can try the deployed startup success prediction model here: https://startup-predictor-9g08.onrender.com/
+.
+
+
+
 Table of Contents
 
 [1 Executive summary 1](#_Toc211861353)
