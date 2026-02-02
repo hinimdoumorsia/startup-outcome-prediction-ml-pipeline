@@ -757,10 +757,3 @@ This project lays the foundation for a scalable startup analytics platform, comb
 - Streamlit & Heroku Deployment Playlist 2: [https://www.youtube.com/playlist?list=PLqYFiz7NM_SN2ZbhnbfwG4kTZ6oCh0aOM](https://www.youtube.com/playlist?list=PLqYFiz7NM_SN2ZbhnbfwG4kTZ6oCh0aOM)
 
 
-## Team Member:
-  - Farhan Akhtar
-  - Aniket Sanjay   Gazalwar
-  - Souleymane Diallo
-  - Hinimdou Morsia Guitdam
-  - Samridh Shrotriya
-
